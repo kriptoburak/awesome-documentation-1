@@ -10,6 +10,7 @@ a list of websites using [documentation](https://github.com/documentationjs/docu
 * [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/)
 * [Turf](http://turfjs.org/docs/)
 * [Simple Statistics](http://simplestatistics.org/docs/)
+* [Xquik API Documentation](https://docs.xquik.com) - REST API documentation for the Xquik X/Twitter automation platform. Covers 40+ API endpoints, MCP server setup, webhook integration, OpenAPI spec, and interactive examples. ([source](https://github.com/Xquik-dev/xquik-docs))
 
 ## License
 
